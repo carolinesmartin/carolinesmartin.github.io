@@ -10,7 +10,7 @@ author_profile: true
 
 Co-Instructor: Summer 2025
 
-Developing curriculum, labs, and problem sets for an introductory summer course on soft matter physics, scheduled for summer 2025.
+As one of the co-instructors for Introduction to Soft Matter Physics, created and developed college-level curriculum for the new class for Brown’s Pre-College Program, including lectures, activities, labs, homework, and assessments; taught daily three hour combined class and lab sessions; and held office hours for student support.
 
 
 ## Physical Sciences 12a: Mechanics and Statistical Physics from an Analytic, Numerical and Experimental Perspective
