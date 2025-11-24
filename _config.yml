@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Caroline Martin"
+title                    : "Caroline Martin Barotta"
 title_separator          : "-"
-name                     : &name "Caroline Martin"
+name                     : &name "Caroline Martin Barotta"
 description              : &description "personal description"
 url                      : https://carolinesmartin.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "carolinesmartin.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Caroline Martin"
+  name             : "Caroline Martin Barotta"
   pronouns         : "she/her"  
   bio              : "Postdoctoral researcher in soft matter and biophysics"
   location         : 
