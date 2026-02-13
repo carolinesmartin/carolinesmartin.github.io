@@ -8,8 +8,8 @@ author_profile: true
   <img src="/images/fusion.png" alt ="Cells Fusing on Protein Pattern" width="250">
 </p>
 
-### Mechanics of cell mergers in the human placenta
-I'm currently working in the Yevick lab to understand the mechanobiology of the formation of syncytiotrophoblasts, which are huge multinuclear cells that protect the fetal-mother barrier during pregnancy. Through physical perturbation of model cell systems and statistical analysis of cell merger events, I hope to develop a physical model to better understand the formation and failure of these biomaterials
+### Biophysics of giant fused cells
+I'm currently working in the Yevick lab to understand the mechanobiology of large fused cells (called syncytia) like the syncytiotrophoblast, which is a huge multinuclear cells that protect the fetal-mother barrier during pregnancy. With a model system created by fusing MDCK cells, I'm investigating how these giant cells maintain their stability and integrity, the large-scale reorganization of their organelles that happens after fusion, and how their biophysical properties differ as a function of size. I use different microscopy techniques for imaging and tracking live cells, machine learning image analysis, and physics-based models for tissue mechanics.
 
 <br>
 <p align="left" style="float: left; margin-right: 15px;">

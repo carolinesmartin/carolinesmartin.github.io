@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 You can also check out my [Google Scholar profile](https://scholar.google.com/citations?user=su9_FyYAAAAJ&hl=en)
 
+## The Physics of Cranberry bogs
+Caroline Martin Barotta and Jack-William Barotta
+[Download paper here](http://carolinesmartin.github.io/files/cranberry-arxiv.pdf)
+
+Recommended citation: Caroline M. Barotta and Jack-William Barotta. "The Physics of Cranberry Bogs." In Press at American Journal of Physics.
+
 ## Inferring interaction potentials from stochastic particle trajectories
 
 Ella M. King, Megan Engel, Caroline Martin, Sam Schoenholz, Vinothan N. Manoharan, and Michael Brenner
