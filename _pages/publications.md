@@ -10,7 +10,7 @@ You can also check out my [Google Scholar profile](https://scholar.google.com/ci
 
 ## The Physics of Cranberry bogs
 Caroline Martin Barotta and Jack-William Barotta
-[Download paper here](http://carolinesmartin.github.io/files/cranberry-arxiv.pdf)
+[Download paper here](http://carolinesmartin.github.io/files/cranberry_arxiv.pdf)
 
 Recommended citation: Caroline M. Barotta and Jack-William Barotta. "The Physics of Cranberry Bogs." In Press at American Journal of Physics.
 

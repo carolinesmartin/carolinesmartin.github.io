@@ -10,10 +10,9 @@ author_profile: true
 
 Co-Instructor: Summer 2025
 
-As one of the co-instructors for Introduction to Soft Matter Physics, created and developed college-level curriculum for the new class for Brown’s Pre-College Program, including lectures, activities, labs, homework, and assessments; taught daily three hour combined class and lab sessions; and held office hours for student support.
+As one of the co-instructors for Introduction to Soft Matter Physics, created and developed college-level curriculum for the new class for Brown’s Pre-College Program, including lectures, activities, labs, homework, and assessments; taught daily three hour combined class and lab sessions; and held office hours for student support. Curriculum covered topics including Brownian motion, statistical physics, biophysics, fluid dynamics, solids, and active matter. 
 
-Curriculum covered topics including Brownian motion, statistical physics, biophysics, fluid dynamics, solids, and active matter.  
-
+The materials for the course can be found at the [course GitHub page](https://github.com/jackwilliamb23/An-Introduction-to-Soft-Matter-Physics), including the lecture notes, problem sets, quizzes, and code we developed.
 
 ## Physical Sciences 12a: Mechanics and Statistical Physics from an Analytic, Numerical and Experimental Perspective
 
