@@ -9,7 +9,7 @@ author_profile: true
 </p>
 
 ### Biophysics of giant fused cells
-I'm currently working to understand the mechanobiology of large fused cells (called syncytia) like the syncytiotrophoblast, which is a huge multinuclear cells that protect the fetal-mother barrier during pregnancy. With a model system created by fusing MDCK cells, I'm investigating how these giant cells maintain their stability and integrity, the large-scale reorganization of their organelles that happens after fusion, and how their biophysical properties differ as a function of size. I use different microscopy techniques for imaging and tracking live cells, machine learning image analysis, and physics-based models for tissue mechanics.
+I'm currently working to understand the mechanobiology of large fused cells (called syncytia) like the syncytiotrophoblast, which is a huge multinuclear cell that protect the fetal-mother barrier in the placenta. With a model system created by fusing MDCK cells, I'm investigating how giant cells maintain their stability and integrity, the large-scale reorganization of their organelles that happens after fusion, and how their biophysical properties differ as a function of size. I use different microscopy techniques for imaging live cells, machine learning image analysis, and physics-based models for tissue mechanics.
 
 <br>
 <p align="left" style="float: left; margin-right: 15px;">
