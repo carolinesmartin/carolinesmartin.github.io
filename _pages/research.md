@@ -9,7 +9,7 @@ author_profile: true
 </p>
 
 ### Biophysics of giant fused cells
-I'm currently working to understand the mechanobiology of large fused cells (called syncytia) like the syncytiotrophoblast, which is a huge multinuclear cell that protect the fetal-mother barrier in the placenta. With a model system of fused MDCK cells, I'm investigating how giant cells maintain their stability and integrity, the large-scale reorganization of their organelles that happens after fusion, and how their biophysical properties differ as a function of size. I use different microscopy techniques for live cell imaging, machine learning image analysis, and physics-based models to understand their behavior.
+I'm currently working to understand the mechanobiology of large fused cells (called syncytia) like the syncytiotrophoblast, which is a huge multinuclear cell that protect the fetal-mother barrier in the placenta. Syncytia can span an enormous range of sizes, from the typical micron scale of a normal cell all the way to the meter scale - the syncytiotrophoblast, for example, grows to 13 square meters during pregnancy! With a model system of fused MDCK cells, I'm investigating how giant cells maintain their stability and integrity, the large-scale reorganization of their organelles that happens after fusion, and how their biophysical properties differ as across these huge length scales. I use different microscopy techniques for live cell imaging, machine learning image analysis, and physics-based models to understand their behavior.
 
 <br>
 <p align="left" style="float: left; margin-right: 15px;">
@@ -36,3 +36,9 @@ In collaboration with members of Michael Brenner's group, including Ella King an
 I've also worked on developing better tools to watch and characterize colloids with light scattering methods like holographic microscopy and dynamic light scattering. I worked to improve characterization and tracking of colloidal particles using holographic microscopy by including optical effects in generative models, and to characterize the effects of spherical aberrations on holography through experiment and simulation.
 
 
+<p align="left" style="float: left; margin-right: 15px;">
+  <img src="/images/cran-cover.jpeg" alt ="Cover of AJP" width="250">
+</p>
+
+### Physics education and science communication
+In addition to my scientific research, I've also worked on several projects focused on teaching and communicating physics. These projects include developing undergraduate-focused labs on macroscopic Brownian motion and the dynamics of cranberries during harvest, creating a science communication platform for middle and high school girls, and an April Fool's Day paper on the connection between food and phase transitions!

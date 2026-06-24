@@ -8,7 +8,16 @@ author_profile: true
 {% include base_path %}
 You can also check out my [Google Scholar profile](https://scholar.google.com/citations?user=su9_FyYAAAAJ&hl=en)
 
+##  Macroscopic Brownian motion on a chaotic fluid interface
+ 
+ Jack-William Barotta, Caroline Martin Barotta, Eli Silver, and Daniel M. Harris
+
+[Download paper here](http://carolinesmartin.github.io/files/faraday.pdf)
+
+Recommended citation: Jack-William Barotta, Caroline M. Barotta, Eli Silver, Daniel M. Harris. "Macroscopic Brownian motion on a chaotic fluid interface." 7/1/2026. American Journal of Physics, 94, 7.
+
 ## The physics of cranberry bogs
+
 Caroline Martin Barotta and Jack-William Barotta
 
 [Download paper here](http://carolinesmartin.github.io/files/cranberry_arxiv.pdf)
