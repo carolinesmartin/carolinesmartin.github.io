@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<br>
 <p align="left" style="float: left; margin-right: 15px;">
   <img src="/images/fusion.png" alt ="Cells Fusing on Protein Pattern" width="250">
 </p>
@@ -35,7 +36,7 @@ In collaboration with members of Michael Brenner's group, including Ella King an
 ### Improving particle characterization with holographic microscopy
 I've also worked on developing better tools to watch and characterize colloids with light scattering methods like holographic microscopy and dynamic light scattering. I worked to improve characterization and tracking of colloidal particles using holographic microscopy by including optical effects in generative models, and to characterize the effects of spherical aberrations on holography through experiment and simulation.
 
-
+<br>
 <p align="left" style="float: left; margin-right: 15px;">
   <img src="/images/cran-cover.jpeg" alt ="Cover of AJP" width="250">
 </p>
